@@ -1,0 +1,12 @@
+{
+  "name": "chatmaxima",
+  "version": "1.0.0",
+  "description": "Build and test ChatMaxima chatbots, design WhatsApp templates and Flows, and triage your omnichannel inbox from Gemini CLI.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "chatmaxima": {
+      "httpUrl": "https://chatmaxima.com/mcp/",
+      "timeout": 120000
+    }
+  }
+}
